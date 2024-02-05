@@ -1,7 +1,7 @@
 # Project Portfolio
 
 # Education
-Economics, BS - Michigan State University
+Economics (Enviornment & Management), BS - Michigan State University
 
 # Certifications 
 MOS Excel associate 
