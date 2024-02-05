@@ -10,7 +10,7 @@ LCC Intermediate SQL
 
 IBM Data Analyst 
 
-Microsoft: Power BI Data Analyst Associate - *in progress*.
+Microsoft: Power BI Data Analyst Associate - **in progress**.
 
 ## Project - 
 
