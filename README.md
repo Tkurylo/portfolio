@@ -12,7 +12,7 @@ IBM Data Analyst
 
 Microsoft: Power BI Data Analyst Associate - **in progress**.
 
-## Project - SQL practice for Certification Exam and brief thoughts on Joe Celko's: Thinking In Sets. 
+# Project - SQL practice for Certification Exam and brief thoughts on Joe Celko's: Thinking In Sets. 
 https://github.com/Tkurylo/sql_cert_practice-
 
 ## Project - 
