@@ -1,6 +1,18 @@
-# portfolio
+# Project Portfolio
 
-### education
-Economics, BS
+# Education
+Economics, BS - Michigan State University
 
-#### work experience 
+# Certifications 
+MOS Excel associate 
+LCC Intermediate SQL
+IBM Data Analyst 
+Microsoft: Power BI Data Analyst Associate - in progress.
+
+## Project - 
+
+## Project - 
+
+## Project -
+
+## Project - 
