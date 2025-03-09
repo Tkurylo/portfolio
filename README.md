@@ -10,11 +10,11 @@ LCC Intermediate SQL
 
 IBM Data Analyst 
 
-#### Project - SanFransisco Water Use in Time of Drought [Excel/Python/PowerPoint]
+## Project - SanFransisco Water Use in Time of Drought [Excel/Python/PowerPoint]
 https://github.com/Tkurylo/SF_Bay_Res_Water_Use <br/>
 Synopsis: Used Python to wrangle/clean/combine(via For Loop) 15+ million rows of .xlsx data into a single dataframe for statistical analysis of trends. Added Drought data to dataframe via a mask loop as the only available key was a range, not a discrete key.  
 
-## Real Estate Webscraper [Python]
+## Project - Real Estate Webscraper [Python]
 https://github.com/Tkurylo/web_scraping <br/>
 Synopsis: Webscraper to gather raw data for ETL into SSMS database for PowerBi reporting/dashboard.
 
